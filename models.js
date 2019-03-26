@@ -76,3 +76,22 @@ class Rules {
     }
 
 }
+
+class Game{
+    constructor(){
+
+    }
+    
+    setup(){
+    
+    }
+    
+    teardown(){
+    
+    }
+    
+    highScore(){
+    
+    }
+    
+}
